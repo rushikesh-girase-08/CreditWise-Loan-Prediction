@@ -54,15 +54,16 @@ The objective of this project is to develop a Machine Learning-based loan predic
 
 ### 1. CreditWise Home Page
 
-![CreditWise Home Page](screenshots/homepage.png)
 
 ### 2. Applicant Information
 
-![Applicant Information](screenshots/applicant-information.png)
 
 ### 3. Loan Prediction Result
 
-![Loan Prediction Result](screenshots/prediction-result.png)
+
+![CreditWise Loan Prediction](https://github.com/rushikesh-girase-08/CreditWise-Loan-Prediction/raw/main/Project%20Media.png)
+
+[View Project Media](https://github.com/rushikesh-girase-08/CreditWise-Loan-Prediction/blob/main/Project%20Media.png)
 
 ## 🤖 Machine Learning Model
 
